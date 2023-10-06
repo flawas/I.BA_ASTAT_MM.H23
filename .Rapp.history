@@ -1,0 +1,218 @@
+1+1
+1+1
+1+1
+1+1
+1+1
+a <- 3
+bb <- 4
+a
+b
+bb
+(3*a)
+x <- 4,2,1,3,3,5,7
+x <- c(4,2,1,3,3,5,7)
+x(2)
+x(2,1)
+x
+x.1
+x[1]
+x[3]
+x[3]
+x[4]
+length(x)
+length(x)
+x+2
+sum(x+2)
+x
+sum(x+2)
+x <= 3
+x[x <= 3]
+sort(x)
+order(x)
+x
+x[4] <- 8
+x
+c <- 51.9,51.8,51,9,53
+fahrenheit <- c(51.9,51.8,51,9,53)
+fahrenheit <- c(51.9, 51.8, 51.9, 53)
+fahrenheit
+celsius <- 5/9 * (fahrenheit -32)
+celsius
+fahrenheit <- fahrenheit + c(48, 48.2, 48.7)
+fahrenheit <- c(48, 48.2, 48.7)
+fahrenheit
+fahrenheit <- c(51.9, 51.8, 51.9, 53)
+fahrenheit_2 <- c(48, 48.2, 48, 48.7)
+fahrenheit_3 <- fahrenheit - fahrenheit_2
+fahrenheit_3
+gewicht <- 60, 72 , 57, 90, 95, 72
+gewicht <- c(60, 72 , 57, 90, 95, 72)
+bmi <- gewicht / (koerper)^2
+koerper <- c(1,75, 1.80, 1.65, 1.90, 1.74, 1.91)
+bmi <- gewicht / (koerper)^2
+bmi <- gewicht / (koerper)^2
+bmi <- gewicht / (koerper^2)
+height <- c(1.75, 1.80, 1.65, 1.90, 1.74, 1.91)
+bmi <- weight / (height ^2)
+weight <- c(60, 72 , 57, 90, 95, 72)
+height <- c(1.75, 1.80, 1.65, 1.90, 1.74, 1.91)
+bmi <- weight / (height ^2)
+bmi
+x <- c(4, 10, 3, NA, NA, 1, 8)
+mean(x)
+sort(x)
+order(x)
+mean(x > NA)
+mean(x [x > NA])
+seq(from = 3, to = 10, by = 2)
+mean(x, na.rm = TRUE)
+seq(from = 3, to = 10, by = 2)
+sort(x, decreasing = TRUE)
+sort(x, decreasing = FALSE)
+z <- c(4, 2, 8, 9, 7, 5, 2, 1)
+plot(z)
+plot(z,
+plot(z,
+plot(z,
+ylab = "Andere Zahlen"
+plot(z,
+type = "l",
+col = "blue",
+lty = 2,
+main = "Haupttitel",
+xlab = "Ein paar Zahlen",
+ylab = "Andere Zahlen"
+)
+plot(z,#
+type = "l", #
+col = "blue",#
+lty = 2,#
+main = "Haupttitel",#
+xlab = "Ein paar Zahlen",#
+ylab = "Andere Zahlen"#
+)
+plot(z,#
+type = "2, #
+col = "blue",#
+lty = 2,#
+main = "Haupttitel",#
+xlab = "Ein paar Zahlen",#
+ylab = "Andere Zahlen"#
+)
+plot(z,#
+type = "2", #
+col = "blue",#
+lty = 2,#
+main = "Haupttitel",#
+xlab = "Ein paar Zahlen",#
+ylab = "Andere Zahlen"#
+)
+plot(z,#
+type = "0", #
+col = "blue",#
+lty = 2,#
+main = "Haupttitel",#
+xlab = "Ein paar Zahlen",#
+ylab = "Andere Zahlen"#
+)
+plot(z,#
+type = "1", #
+col = "blue",#
+lty = 2,#
+main = "Haupttitel",#
+xlab = "Ein paar Zahlen",#
+ylab = "Andere Zahlen"#
+)
+plot(z,#
+type = "2", #
+col = "blue",#
+lty = 2,#
+main = "Haupttitel",#
+xlab = "Ein paar Zahlen",#
+ylab = "Andere Zahlen"#
+)
+plot(z, type = "l", #
+       col = "blue",#
+       lty = 2,#
+       main = "Haupttitel",#
+       xlab = "Ein paar Zahlen",#
+       ylab = "Andere Zahlen"#
+)
+plot(z, type = "l", #
+col = "blue",#
+lty = 2,#
+main = "Haupttitel",#
+xlab = "Ein paar Zahlen",#
+ylab = "Andere Zahlen"#
+)
+plot(z, type = "l",  col = "blue", lty = 2, main = "Haupttitel", xlab = "Ein paar Zahlen", ylab = "Andere Zahlen")
+plot(z, type = "l",  col = "blue", lty = 1, main = "Haupttitel", xlab = "Ein paar Zahlen", ylab = "Andere Zahlen")
+plot(z, type = "l",  col = "blue", lty = 3, main = "Haupttitel", xlab = "Ein paar Zahlen", ylab = "Andere Zahlen")
+abline(x = 3)
+abline(3)
+abline(v = 3, col = "green", lty = 1)
+abline(h = 4, col = "red", lty = 3) abline(a = 1, b = 2, col = "brown", lty = 5)
+abline(h = 4, col = "red", lty = 3)
+abline(a = 1, b = 2, col = "brown", lty = 5)
+dir
+ls
+whoami
+ls
+cls
+clear
+setwd("/home/flaviowaser/GitHub/I.BA_ASTAT_MM.H23")
+setwd("/home/flaviowaser/GitHub/I.BA_ASTAT_MM.H23")
+setwd
+getwd()
+setwd("/Users/flaviowaser/GitHub/I.BA_ASTAT_MM.H23")
+data <- read.csv("sw1/weather.csv")
+data
+data[4]
+data[0,4]
+data[2,3]
+data <- read.csv("sw1/weather.csv")
+data[2,3]
+data[4,]
+data[4,] <- write.csv("sw1/weather2.csv")
+data[4,] -> write.csv("sw1/weather2.csv")
+data1 <- data[, c("Luzern", "Zurich")]
+write.csv(data1, "../../../Software_R_Python/R/weather2.csv", row.names=F)
+write.csv(data1, "sw1/weather2.csv", row.names=F)
+data1 <- data[, c("Luzern", "Zurich")]
+data1 <- data[, data("Luzern", "Zurich")]
+data1 <- data[, c("Luzern", "Zurich")]
+data[, c("Luzern", "Zurich")]
+data[4,]
+data[, c("Luzern", "Zurich")]
+data[, c("Luzern", "Zurich")]
+write.csv(data1, "sw1/wather2.csv",row.names=F)
+data1 <- data[, c("Luzern", "Zurich")]
+write.csv(data1, "sw1/wather2.csv",row.names=F)
+colnames(data) [3]
+colnames(data)[2] <- Genf
+colnames(data)[2] <- "Genf"
+data
+data3 <- data[order(data[, "Zurich"]), ])
+data3 <- data[order(data[, "Zurich"]),]
+data3
+d.fuel <- read.table(file = "./d.fuel.dat" ,header = T, sep = ","
+d.fuel
+d
+d.fuel <- read.table(file = "./d.fuel.dat" ,header = T, sep = ",")
+d.fuel <- read.table(file = "./sw1/d.fuel.dat" ,header = T, sep = ",")
+d.fuel
+d.fuel[,5]
+d.fuel[,5]
+d.fuel[5,]
+d.fuel[1:5,]
+d.fuel[c(1:3, 57:60),]
+mean(d.fuel[,3])
+mean(d.fuel[, "mpg"])
+mean(d.fuel[c(7:22),])
+mean(d.fuel[c(7:22)],)
+mean(d.fuel[c(7:22)])
+mean(d.fuel[c(7:22), "mpg"])
+t.kml <- d.fuel[, "mpg"] * 1.6093 /3.789
+t.kg <- d.fuel[, "weight"] * 0.45359
+mean(t.kml)
+mean(t.kg)
