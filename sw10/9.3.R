@@ -18,3 +18,5 @@ t.test(messergebnisse, mu = soll, alternative = "less")
 
 # --> q = mean of x aus t.test
 pnorm(q = 0.04758, mean = soll, sd=standardabweichung/sqrt(messanzahl))
+
+10/sqrt(10)
